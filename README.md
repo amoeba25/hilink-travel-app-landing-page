@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a travel application, built with **Next.js** and **Tailwind CSS**.  
 Designed to highlight destinations, features, and call-to-actions with a fast, SEO-friendly setup. <br>
-Previw here : 
+Previw [here](https://hilink-travel-app-landing.netlify.app)
 
 ### ✨ Features
 
